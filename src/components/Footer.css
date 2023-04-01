@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.footer{
+    height:100px;
+    top: 100%;
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+    background: #102030b0;
+
+}

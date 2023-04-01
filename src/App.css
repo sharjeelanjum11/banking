@@ -1,0 +1,6 @@
+body{
+  background-color: #f8f0f0;
+}
+body.dark-mode{
+  background-color: #131010;
+}
